@@ -2,7 +2,7 @@
 layout: post
 title:  "This is a Post"
 date:   2023-09-29 11:00:00 -0500
-categories: jekyll update
+categories: posts
 ---
 This is a post.
 
