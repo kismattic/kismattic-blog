@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Still figuring all of this out. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+If I keep up with this there will be some more info in the future. Right now, I assume if you're here you know who I am. If not, I am Kismattic. Husband, father, software dev, variety streamer. Find me on stream, discord, or wherever I'm around!
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+As always, follow your dreams
 
+[Twitch](https://twitch.tv/kismattic) -
+[Discord](https://discord.gg/aWTZxR3nrw) -
+[Youtube](https://www.youtube.com/@kismattic) -
+[TikTok](https://www.tiktok.com/@kismattic) -
+[Mastodon](https://mastodon.social/@kismattic)
 
-[jekyll-organization]: https://github.com/jekyll
